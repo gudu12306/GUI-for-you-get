@@ -16,7 +16,7 @@
 
 5. 选择视频保存位置，这是必须要选的！！！！！
 
-7. 如果下载的是会员视频，需要加载cookies.sqlite文件（选填！！）。压缩包中是我的会员cookies文件（腾讯与b站），可以用自己电脑上的替换。不知道在哪找到cookies.sqlite可以参考https://blog.csdn.net/weixin_42882419/article/details/108020255
+7. 如果下载的是会员视频，需要加载cookies.sqlite文件（选填！！）。压缩包中是我的会员cookies文件（腾讯与b站），可以用自己电脑上的替换。不知道在哪找到cookies.sqlite可以参考https://www.jianshu.com/p/62c0b1d332b6
 
 9. 点击下载，等大约一两分钟可以看到开始下载。
 
